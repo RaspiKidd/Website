@@ -1,13 +1,11 @@
 # Getting Started
 
 ## What Is EduBlocks?
-Edublocks is a new program for the raspberry pi, which allows you to write real python code but in block format like Scratch.
-with this in mind it is helping educators teach younger children to program in python and by the time they are able to move on to
+Edublocks is a new program for the raspberry pi, which allows you to write real python code but in block format like Scratch, with this in mind it is helping educators teach younger children to program in python and by the time they are able to move on to
 python they will already understand the python syntax.
 
 ## How To Install EduBlocks
-EduBlocks does not come installed on the Raspberry Pi by default, so for us to install it we need to open a terminal window
-do this by clicking on the icon that looks like this ![Terminal Icon](Images/Terminal.png) It is located at the top along from the menu icon.
+EduBlocks does not come installed on the Raspberry Pi by default, so for us to install it we need to open a terminal window do this by clicking on the icon that looks like this ![Terminal Icon](Images/Terminal.png) It is located at the top along from the menu icon.
 
 Once the Terminal has opened you will see a window similar to this: ![Terminal Window](Images/Terminal_Window.png)
 
@@ -23,6 +21,7 @@ Once it is finished you will see that there is an EduBlocks Icon on the desktop,
 Once Edublocks has loaded you will see something like this: ![EduBlocks Window](Images/EduBlocks_Window.png)
 
 The menu along the top gives you options of what to do with your code.
+
 * ![Block View](Images/Block_View.png) is the default view.
 
 * ![Python View](Images/Python_View.png) This lets you see your code written as python.
@@ -36,6 +35,7 @@ The menu along the top gives you options of what to do with your code.
 * ![Run](Images/Run.png) This runs any code that you have created.
 
 The menu down the left hand side gives you your coding blocks.
+
 * ![Basic menu](Images/Basic.png) The basics menu has things that may be used a lot like while loops and print statements.
 
 * ![EduPy Menu](Images/EduPy.png) The EduPy menu gives you 3 sub menus. These refer to the CamJam EduKits, which is what EduPy was developed for.
