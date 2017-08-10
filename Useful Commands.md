@@ -65,6 +65,11 @@ The following is a list of useful Linux commands
 
 ## S
 **sudo** - runs commands as super user
+
+<br>
+
+**scrot -d 5** - Take a screenshot with a delay of 5 seconds
+
 ## T
 ## U
 **apt-get update** - Updates the raspberry pi. Must be ran as super user (sudo) for example *sudo apt-get update*
