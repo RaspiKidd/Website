@@ -16,6 +16,8 @@ Within this tutorial we are going to make an LED turn on using scratch and a Ras
 * Power Supply
 
 ## The Circuit
+Lets build the circuit. Make sure you have your LED the right way round. The positive leg is the longer leg on the LED, this is represented by the bent leg in the diagram below:
+
 ![LED Circuit](Images/LED_Diagram.png)
 
 ## Code
