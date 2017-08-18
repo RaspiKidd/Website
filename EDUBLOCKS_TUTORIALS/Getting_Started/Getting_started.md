@@ -16,6 +16,7 @@ curl -sSL get.edublocks.org | bash
 ```
 Once you have typed the line above press enter. Now we just have to wait till its finished.
 
+## Getting To Know EduBlocks
 Once it is finished you will see that there is an EduBlocks Icon on the desktop, like this: ![EduBlocks Icon](Images/EduBlocks.png) Double click on the icon.
 
 Once Edublocks has loaded you will see something like this: ![EduBlocks Window](Images/EduBlocks_Window.png)
