@@ -61,7 +61,7 @@ Click on the ![Looks menu block](Images/Looks_Menu.png) menu. Click and drag ![C
 Now click the ![Change colour block](Images/Change_Colour.png) to see what happens.
 
 ## Using The Keyboard
-Click on the ![Events menu block](Images/Events_menu.png) menu. Click and drag the ![Space pressed block](Images/Space_Pressed.png) block and attach it to the top of the ![Change colour block](Images/Change_Colour.png) block. Your code should now look like this ![Code block 9](Imaes/code_block_9.png)
+Click on the ![Events menu block](Images/Events_menu.png) menu. Click and drag the ![Space pressed block](Images/Space_Pressed.png) block and attach it to the top of the ![Change colour block](Images/Change_Colour.png) block. Your code should now look like this ![Code block 9](Images/code_block_9.png)
 
 Now press the spacebar.
 
