@@ -1,4 +1,4 @@
-within this tutorial we are going to turn an LED on using a raspberry pi and python.
+Within this tutorial we are going to turn an LED on using a raspberry pi and python.
 
 ## Equipment You Will Need
 * 1 x red LED
