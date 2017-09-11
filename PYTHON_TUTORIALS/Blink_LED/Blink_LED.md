@@ -1,6 +1,6 @@
 # Blinking LED
 
-within this tutorial we are going to make an LED blink on and off using a raspberry pi and python.
+Within this tutorial we are going to make an LED blink on and off using a raspberry pi and python.
 
 ## Equipment You Will Need
 * 1 x red LED
