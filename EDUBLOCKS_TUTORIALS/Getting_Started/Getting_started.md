@@ -23,11 +23,13 @@ Once Edublocks has loaded you will see something like this: ![EduBlocks Window](
 
 The menu along the top gives you options of what to do with your code.
 
-* ![Block View](Images/Block_View.png) is the default view.
+* ![Themes](Images/Themes.png) The themes option gives you the choice of different themes for EduBlocks for example MineCraft.
 
-* ![Python View](Images/Python_View.png) This lets you see your code written as python.
+* ![Samples](Images/Samples.png) By clicking on this tab you can get some sample code written in EduBlocks.
 
-* ![Python Download](Images/Python_Download.png) This Downloads your code as Python.
+* ![Download](Images/Downloads.png) This lets you download your Edublocks code file as Python and save it to your Raspberry Pi.
+
+* ![New](Images/New.png) This opens a new blank EduBlocks canvas.
 
 * ![Open](Images/Open.png) This opens previously saved EduBlocks code.
 
@@ -35,17 +37,11 @@ The menu along the top gives you options of what to do with your code.
 
 * ![Run](Images/Run.png) This runs any code that you have created.
 
+Just below this menu you will see a tab  like this ![tab](Images/Tab.png) by clicking on it you can swap between blocly view and Python view.
+
 The menu down the left hand side gives you your coding blocks.
 
 * ![Basic menu](Images/Basic.png) The basics menu has things that may be used a lot like while loops and print statements.
-
-* ![EduPy Menu](Images/EduPy.png) The EduPy menu gives you 3 sub menus. These refer to the CamJam EduKits, which is what EduPy was developed for.
-
- * ![Kit 1](Images/Kit1.png) This lets you control basic electronics like LEDs, buttons, and buzzers.
-
- * ![Kit 2](Images/Kit2.png) This lets you control sensors like Temperature and motion.
-
- * ![Kit 3](Images/Kit3.png) This lets you to control robots.
 
 * ![Minecraft Menu](Images/Minecraft.png) Clicking on Minecraft gives you 2 sub menus.
 
@@ -53,6 +49,15 @@ The menu down the left hand side gives you your coding blocks.
 
  * ![Commands](Images/Commands.png) This contains the rest of the blocks needed to integrate with Minecraft like the post to chat. which posts messages to the chat menu in Minecraft.
 
+* ![GPIO Zero](Images/GPIO_Zero.png) This is the Python GPIO zero library. It is split into 5 sub-menus.
+
+  * ![General](Images/General_Zero.png) This contains general blocks of code to import libraries.
+
+  * ![Inputs](Images/Inputs.png) This displays 5 sub-menus, 1 for each type of input devices that the GPIOZero library supports for example, Buttons and Line follower.
+
+  * ![Outputs](Images/Outputs.png) This displays 7 sub-menus 1 for each type of output devices that the GPIOZero Library supports for example, LED and Motor.
+
+  * ![]()
 * ![Sonic pi](Images/Sonic_Pi.png) this allows you to interact with the sonic pi program which allows you to live code music.
 
 * ![Pimoroni](Images/Pimoroni.png) This is a menu of Pimoroni add on boards that can be controlled using EduBlocks.
