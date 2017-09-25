@@ -19,7 +19,7 @@ Once you have typed the line above press enter. Now we just have to wait till it
 ## Getting To Know EduBlocks
 Once it is finished you will see that there is an EduBlocks Icon on the desktop, like this: ![EduBlocks Icon](Images/EduBlocks.png) Double click on the icon.
 
-Once Edublocks has loaded you will see something like this: ![EduBlocks Window](Images/EduBlocks_Window.png)
+Once Edublocks has loaded you will see something like this: ![EduBlocks Window](Images/EduBlocks_Window1.png)
 
 The menu along the top gives you options of what to do with your code.
 
@@ -31,11 +31,11 @@ The menu along the top gives you options of what to do with your code.
 
 * ![New](Images/New.png) This opens a new blank EduBlocks canvas.
 
-* ![Open](Images/Open.png) This opens previously saved EduBlocks code.
+* ![Open](Images/Open1.png) This opens previously saved EduBlocks code.
 
-* ![Save](Images/Save.png) This saves EduBlocks code for you to go back to later.
+* ![Save](Images/Save1.png) This saves EduBlocks code for you to go back to later.
 
-* ![Run](Images/Run.png) This runs any code that you have created.
+* ![Run](Images/Run1.png) This runs any code that you have created.
 
 Just below this menu you will see a tab  like this ![tab](Images/Tab.png) by clicking on it you can swap between blocly view and Python view.
 
@@ -57,12 +57,17 @@ The menu down the left hand side gives you your coding blocks.
 
   * ![Outputs](Images/Outputs.png) This displays 7 sub-menus 1 for each type of output devices that the GPIOZero Library supports for example, LED and Motor.
 
-  * ![]()
+  * ![Boards and accessories](Images/Boards.png) This category shows different add-on boards supported by GPIOZero.
+
+  * ![Internal and SPI Devices](Images/Internal.png) This shows different internal devices you can interact with for example, getting CPU temperature or getting the time from the Raspberry Pi.
+
 * ![Sonic pi](Images/Sonic_Pi.png) this allows you to interact with the sonic pi program which allows you to live code music.
 
 * ![Pimoroni](Images/Pimoroni.png) This is a menu of Pimoroni add on boards that can be controlled using EduBlocks.
 
 * ![Advanced](Images/Advanced.png) This contains advanced Edublock commands.
+
+* ![SenseHat](Images/SenseHat.png) This adds the function of the SenseHat and emulation SenseHat libraries, so you can scroll text on the SenseHat.
 
 That is all I am going to cover in this guide.
 
