@@ -3,7 +3,7 @@ Within this tutorial we are going to make an LED blink on and off using EduBlock
 
 ## Equipment You Will Need
 
-* 1 x red LED
+* 1 x LED
 * 2 x male to female jumper wires
 * 1 x breadboard
 * 1 x 330 ohm resistor
@@ -21,19 +21,19 @@ Lets build the circuit. Make sure you have your LED the right way round. The pos
 ![LED Circuit](Images/LED_Diagram.png)
 
 ## Code
-The fist thing we need to do is open EduBlocks. do this by double clicking on the ![EduBlocks](Images/EduBlocks.png) desktop icon.
+The fist thing we need to do is open EduBlocks. do this by double clicking on the ![EduBlocks](Images/EduBlocks.png) desktop icon.(if you don't have EduBlocks installed check out the [getting started guide]())
 
-1. Click on the ![Basics menu](Images/Basic.png) and locate the ![Import Edupy](Images/Import_edupy.png) and drag it to the coding area.
+1. Click on the ![GPIOZero menu](Images/GPIO_Zero.png) and click on the ![General menu](Images/General_Zero.png). Then locate the ![from gpiozero import *](Images/Import_GPIOzero.png) and drag it to the coding area.
 
-2. Click on the ![EduPy menu](Images/EduPy.png) menu. Then click on the ![Kit1 menu](Images/Kit1.png) From here locate the ![Red LED blink block](Images/Red_Blink.png)
+2. Now Click on the ![Outputs menu](Images/Outputs.png) menu. Then click on the ![LED menu](Images/LED.png) From here locate the ![led=LED block](Images/LED_Pin.png) and in the bit that is says pin type *18*.
 
-
+3. Next locate the ![led.on](Images/LED_On.png) and click on the arrow next to on and click on ![blink](Images/LED_menu.png)
 
 Your code should now look like this:
-![LED blink](Images/LED_Blink.png)
+![LED blink](Images/LED_Blink1.png)
 
 ## Running Your Code
-To run your code click on ![Run](Images/Run.png) in the top far right corner.
+To run your code click on ![Run](Images/Run1.png) in the top far right corner.
 
 You should now see your LED turn on.
 
