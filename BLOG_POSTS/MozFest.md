@@ -6,6 +6,8 @@ The main focus of the festival this year is Internet Health and one of the key a
 
 My session fits into Digital Inclusion by teaching a wide age range of people about programming physical components like LEDs and Buttons through a Raspberry Pi and [Edublocks](http://edublocks.org/). The session differs from others like it by being able to cover a wider age range and coding ability of the participants due to using [Edublocks](http://edublocks.org/) instead of [Python](https://www.python.org/) which is what most session like this are coded in. By opening this session up to a wide age group I hope to inspire some new young coders to carry on coding and experimenting with technology after MozFest.
 
+![Pi Lab](Images/PiLab.jpg)
+
 ## What is The Quick Reaction Game?
 
 The quick reaction game consists of an electronic breadboard, 2 push buttons/tactile switches an LED all connected to a [Raspberry Pi](https://www.raspberrypi.org/) so you can program the components and make the game. Participants will be programming the components through [EduBlocks](http://edublocks.org/)
