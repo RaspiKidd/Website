@@ -15,3 +15,13 @@ Throughout the next week I will be adding more functionality to the worksheet by
 The next steps are to create the presentation and read the worksheet over and make necessary changes.
 
 Come back next week for the Next update.
+
+
+## Week 2: 08.10.17 - 14.10.17
+Well within the last week I have finished the first draft of the worksheet and sent it off to wranglers to be checked over and see what they think.
+
+I have also started my presentation for MozFest which explains what the electronic components are and how we are going to use them within the session.
+
+We are now going into the final 2 weeks before MozFest so lots of deadlines coming up. I need to have the worksheet approved and completed for Friday the 20th, so they can go and get printed in time for the festival. There is a video call for facilitators on the 22nd.  
+
+That is all for this week Come back next week for the next update.
