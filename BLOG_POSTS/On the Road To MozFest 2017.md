@@ -36,3 +36,14 @@ Again this has not been a very short update. Next week is the week leading up to
 As well as blogging about the whole festival I will also do a post on how well I think my session went.
 
 That’s all for this week. Come back next week for the final part of the Road To MozFest.
+
+## Week 4: 22.10.17 - 26.10.17
+So this week I have received the final info I need for the festival. I have also completed the session presentation and prepared 10 kits for the session, plus extra components incase some of the components decide not to work on the day. (it is better being over prepared than underprepared)
+
+Even as I am travelling on the train and writing this post I have found another good piece of info to add into my presentation about LEDs. ![LED info](Images/LEDInfo.jpeg)
+
+I am very excited to meet everyone Tomorrow (Friday), but also getting nervous about running a session within a festival of this size, but also psyched about doing it.
+
+This is a very short post again, but be prepared for a long post at the start of next week loaded with lots of pictures.
+
+Thanks for keeping with me through this series of blog posts. Hope to maybe even see some of you at MozFest 2017!
