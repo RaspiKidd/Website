@@ -1,13 +1,15 @@
 routes:
-  /:
-    controller: channel
-    data:
-      post: page.home
-    template: page
+  #/:
+  #  controller: channel
+  #  data:
+  #    post: page.home
+  #  template: home
 
 collections:
-  /blog/:
-    permalink: /blog/{slug}/
+  #/blog/:
+  /:
+    #permalink: /blog/{slug}/
+    permalink: /{slug}/
     template:
       - index
 
