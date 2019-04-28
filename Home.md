@@ -1,6 +1,7 @@
 ![Raspberry Pi](Images/Raspberry_Pi.png)
 
-**RaspiKidd the proud owner and co founder of [micro:mag](https://micromag.cc)**
+## RaspiKidd is the proud owner and co founder of [micro:mag](https://micromag.cc)
+
 ### Imagine being able to program a computer that you can pick up and put in your pocket?
 No matter what age you are or how terrified you are of IT, RaspiKidd offers a service that will bring you up to speed in no time at all. You maybe wondering what a Raspberry Pi is? If like me, your mouth starts to watering, forget it. NO you can't eat it. Its not a Raspberry pie :)
 
