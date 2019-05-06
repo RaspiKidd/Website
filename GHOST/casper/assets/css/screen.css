@@ -32,7 +32,8 @@ production stylesheet in assets/built/screen.css
 @import "global.css";
 
 body {
-    background: #f4f8fb;
+    /* background: #f4f8fb; */
+    background: #4392F1; /* updated colour */
 }
 
 .img {
@@ -112,8 +113,10 @@ body {
     position: relative;
     padding-top: 12px;
     padding-bottom: 12px;
-    color: #fff;
-    background: color(var(--darkgrey) l(-5%)) no-repeat center center;
+    /*color: #fff; */
+    color: #D02530; /* updated colour */
+    /*background: color(var(--darkgrey) l(-5%)) no-repeat center center; */
+    background-color: #006494; /* Updated colour */
     background-size: cover;
 }
 
@@ -167,7 +170,8 @@ body {
 }
 
 .site-logo {
-    max-height: 45px;
+    /* max-height: 45px; */
+    max-height: 200px; /* updated size */
 }
 
 .site-description {
@@ -200,8 +204,9 @@ body {
     justify-content: space-between;
     align-items: flex-start;
     overflow-y: hidden;
-    height: 40px;
-    font-size: 1.2rem;
+    height: 60px; /* changed from 40 */
+    /* font-size: 1.2rem; */
+    font-size: 2rem; /* updated font size */
 }
 
 .site-nav-left {
@@ -245,7 +250,8 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 .site-nav-logo img {
     display: block;
     width: auto;
-    height: 21px;
+    /* height: 21px; */
+    height: 45px;
 }
 
 .nav {
@@ -266,11 +272,13 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     display: block;
     margin: 0;
     padding: 10px 12px;
-    color: #fff;
+    /* color: #fff; */
+    color: #76B82A;  /* Updated colour */
     opacity: 0.8;
 }
 
 .nav li a:hover {
+    color: #D02530; /* updated colour */
     text-decoration: none;
     opacity: 1;
 }
@@ -298,7 +306,8 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     align-items: center;
     margin: 0;
     padding: 10px;
-    color: #fff;
+    /*color: #fff; */
+    color: #D02530; /* Updated colour */
     opacity: 0.8;
 }
 
@@ -308,7 +317,8 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 
 .social-link svg {
     height: 1.8rem;
-    fill: #fff;
+    /* fill: #fff; */
+    fill: #76B82A; /* updated colour */
 }
 
 .social-link-fb svg {
@@ -320,7 +330,8 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 }
 
 .social-link-wb svg path {
-    stroke: #fff;
+    /*stroke: #fff;*/
+    stroke: #D02530;
 }
 
 .social-link-rss svg {
@@ -354,7 +365,8 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 .rss-button svg {
     margin-bottom: 1px;
     height: 2.1rem;
-    fill: #fff;
+    /* fill: #fff; */
+    fill: #76B82A; /* updated colour */
 }
 
 @media (max-width: 700px) {
