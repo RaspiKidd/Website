@@ -183,13 +183,15 @@ svg:not(:root) {
     overflow: hidden;
 }
 mark {
-    background-color: #fdffb6;
+    /*background-color: #fdffb6; */
+    background-color: #4392F1; /* Changed to match style guide */
 }
 code,
 kbd,
 pre,
 samp {
-    font-family: monospace, monospace;
+    /*font-family: monospace, monospace;*/
+    font-family: 'Prompt', sans-serif; /* Changed font family to match style guide */
     font-size: 1em;
 }
 button,
@@ -281,7 +283,8 @@ html {
 body {
     overflow-x: hidden;
     color: color(var(--midgrey) l(-25%));
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    /*font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;*/
+    font-family: 'Ubuntu', sans-serif;
     font-size: 1.5rem;
     line-height: 1.6em;
     font-weight: 400;
@@ -439,6 +442,7 @@ h1 {
     margin: 0 0 0.5em 0;
     font-size: 5rem;
     font-weight: 700;
+    color: #D02530; /* Added text colour */
 }
 @media (max-width: 500px) {
     h1 {
@@ -449,6 +453,7 @@ h1 {
 h2 {
     margin: 1.5em 0 0.5em 0;
     font-size: 2rem;
+    color: #76B82A; /* added text colour */
 }
 @media (max-width: 500px) {
     h2 {
