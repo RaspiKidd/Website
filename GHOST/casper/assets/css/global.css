@@ -141,11 +141,13 @@ html {
     box-sizing: inherit;
 }
 a {
+    /* color: #D02530; updated colour */
     background-color: transparent;
 }
 a:active,
 a:hover {
     outline: 0;
+    /* color: #76B82A;  Updated color */
 }
 b,
 strong {
@@ -159,6 +161,8 @@ dfn {
 h1 {
     margin: 0.67em 0;
     font-size: 2em;
+    color: #D02530; /* Updated colour */
+    font-family: 'Permanent Marker', cursive; /* Updated font */
 }
 small {
     font-size: 80%;
@@ -291,7 +295,8 @@ body {
     font-style: normal;
     letter-spacing: 0;
     text-rendering: optimizeLegibility;
-    background: #fff;
+    /*background: #fff; */
+    background: #4392F1; /* Updated colour */
 
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -300,7 +305,8 @@ body {
 
 ::selection {
     text-shadow: none;
-    background: color(var(--blue) lightness(+30%));
+    /*background: color(var(--blue) lightness(+30%)); */
+    background-color: #4392F1; /* updated colour */
 }
 
 hr {
@@ -418,11 +424,12 @@ blockquote cite a {
 }
 
 a {
-    color: color(var(--blue) l(-5%));
+    color: #D02530;
     text-decoration: none;
 }
 
 a:hover {
+    color: #76B82A;
     text-decoration: underline;
 }
 
