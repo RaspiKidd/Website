@@ -40,7 +40,7 @@ body {
     display: block;
     width: 100%;
     height: 100%;
-    background-position: center center;
+    background-position: left left; /* changed from center center */
     background-size: cover;
     border-radius: 100%;
 }
@@ -402,7 +402,8 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     overflow: hidden;
     margin: 0 20px 40px;
     min-height: 300px;
-    background: #fff center center;
+    /*background: #fff center center; */
+    background:#D02530 center center; /* Changed Colour */
     background-size: cover;
     border-radius: 5px;
     box-shadow: rgba(39,44,49,0.06) 8px 14px 38px, rgba(39, 44, 49, 0.03) 1px 3px 8px;
@@ -464,7 +465,8 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 }
 
 .post-card-excerpt {
-    font-family: Georgia, serif;
+    /* font-family: Georgia, serif; */
+    font-family: 'Ubuntu', sans-serif; /* Updated font */
 }
 
 .post-card-meta {
@@ -676,7 +678,8 @@ make sure this only happens on large viewports / desktop-ish devices.
 .post-template .site-main,
 .page-template .site-main {
     padding-bottom: 4vw;
-    background: #fff;
+    /* background: #fff; */
+    background: #4392F1; /* Updated background */
 }
 
 .post-full {
@@ -758,7 +761,8 @@ make sure this only happens on large viewports / desktop-ish devices.
     font-family: Georgia, serif;
     font-size: 2.2rem;
     line-height: 1.6em;
-    background: #fff;
+    /*background: #fff;*/
+    background: #4392F1; /* updated colour */ 
 }
 
 @media (max-width: 1170px) {
@@ -992,8 +996,10 @@ Usage (In Ghost editor):
 .post-full-content h4,
 .post-full-content h5,
 .post-full-content h6 {
-    color: color(var(--darkgrey) l(-5%));
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    /* color: color(var(--darkgrey) l(-5%)); */
+    color: #D02530;
+    /* font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif; */
+    font-family: 'Permanent Marker', cursive;
 }
 
 .post-full-content h1 {
@@ -1317,7 +1323,8 @@ Usage (In Ghost editor):
 }
 
 .author-card-name a {
-    color: var(--darkgrey);
+    /*color: var(--darkgrey);*/
+    color: #000; /*Changed colour*/
     font-weight: 700;
 }
 
@@ -1327,7 +1334,8 @@ Usage (In Ghost editor):
 
 .author-card-content p {
     margin: 0;
-    color: var(--midgrey);
+    /*color: var(--midgrey); */
+    color: #000;
     line-height: 1.3em;
 }
 
@@ -1339,8 +1347,9 @@ Usage (In Ghost editor):
 .author-card-button {
     display: block;
     padding: 9px 16px;
-    border: color(var(--midgrey) l(+20%)) 1px solid;
-    color: var(--midgrey);
+    border: color(#76B82A l(+20%)) 1px solid;
+    /*color: var(--midgrey); */
+    color: #D02530;
     font-size: 1.2rem;
     line-height: 1;
     font-weight: 500;
@@ -1349,8 +1358,8 @@ Usage (In Ghost editor):
 }
 
 .author-card-button:hover {
-    border-color: var(--blue);
-    color: var(--blue);
+    border-color: #D02530;
+    color: #76B82A;
     text-decoration: none;
 }
 
@@ -2236,7 +2245,7 @@ Usage (In Ghost editor):
     padding-top: 20px;
     padding-bottom: 60px;
     color: #fff;
-    background: color(var(--darkgrey) l(-15%));
+    background-color: #006494;
 }
 
 .site-footer-content {
