@@ -14,4 +14,5 @@ This part of the guide will take you through downloading and installing NOOBS (N
 
 1. Go to the Rasberry Pi website [raspberrypi.org](raspberrypi.org/downloads)
 2. Click on NOOBS
-3. 
+3. Click on Download ZIP under NOOBS (see image below)
+   ![NOOBS Download secreenshot](Images/img01.png)
