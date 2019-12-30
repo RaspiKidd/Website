@@ -2,11 +2,23 @@
 
 Within this guide I am going to take you through setting up the Raspberry Pi software.
 
-There are two common ways to install Raspbian ( the default Raspberry Pi software) The first way is through Noobs and the second is through the Raspbian link.
+There are two common ways to install Raspbian ( the default Raspberry Pi software) The first way is through NOOBS and the second is through the Raspbian link.
 
 Click on the links below to the relevant guide.
+1. [Raspbian](#raspbian)
+2. [NOOBS](#noobs) 
 
+## Raspbian
 
+This part of the guide will take you through downloading, installing and Setting up Raspbian.
+
+### Downloading Raspbian
+
+1. Go to the Raspberry Pi website [raspberrypi.org](https://www.raspberrypi.org/downloads/)
+2. Click on Raspbian
+3. Click on Download ZIP (see image below)
+   ![Raspbian Download screenshot](Images/img02.png)
+4.  
 
 ## NOOBS
 
@@ -14,7 +26,7 @@ This part of the guide will take you through downloading and installing NOOBS (N
 
 ### Downloading NOOBS
 
-1. Go to the Raspberry Pi website [raspberrypi.org](raspberrypi.org/downloads)
+1. Go to the Raspberry Pi website [raspberrypi.org](https://www.raspberrypi.org/downloads/)
 2. Click on NOOBS
 3. Click on Download ZIP under NOOBS (see image below)
    ![NOOBS Download screenshot](Images/img01.png)
