@@ -43,4 +43,4 @@ pip3 install mu_editor
 Mu
 ```
 
-Now that you have Mu installed you can go and develop in Python3, Micro Python for micro:bit or even CircuitPython for the adafruit Circuit Playground Express. 
+Now that you have Mu installed you can go and develop in Python3, MicroPython for micro:bit or even CircuitPython for the Adafruit Circuit Playground Express. 
