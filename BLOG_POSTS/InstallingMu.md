@@ -13,13 +13,20 @@ Mu is a simple code editor developed in Python for Python. Mu has built-in suppo
    3. Click on properties. Under system type it will say either **32 bit** or **64 bit** 
    ![system Properties](Images/WindowsSystem.png)  
 
+4. Once the installer has downloaded. Locate where the file was downloaded to (normally your Downloads folder)
+5. Double click on the file to run the installer
+6. Follow the instructions on screen
+
+You have now got Mu installed on your computer Happy Coding.
+## Installing Mu On Linux
+
 Each Linux distro is a bit different, so for this guide, I am going to focus on Ubuntu. 
 
 1. Mu requires Python3. You can check and see if you have Python3 installed by typing:
 ```
 python3 --version
 ```
-If nothing is displayed type:
+If nothing is displayed type:kv
 ```
 sudo apt install python3
 ```
