@@ -11,7 +11,7 @@ Mu is a simple code editor developed in Python for Python. Mu has built-in suppo
    1. Open Explorer
    2. Right click on this PC
    3. Click on properties. Under system type it will say either **32 bit** or **64 bit** 
-   ![system Properties]()  
+   ![system Properties](Images/WindowsSystem.png)  
 
 Each Linux distro is a bit different, so for this guide, I am going to focus on Ubuntu. 
 
@@ -43,4 +43,4 @@ pip3 install mu_editor
 Mu
 ```
 
-Now that you have Mu installed you can go and develop in Python3, Micro Python for micro:bit or even CircuitPython for the adafruit Circuit Playground Express. 
+Now that you have Mu installed you can go and develop in Python3, MicroPython for micro:bit or even CircuitPython for the Adafruit Circuit Playground Express. 
